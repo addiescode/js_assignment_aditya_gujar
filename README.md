@@ -1,5 +1,7 @@
 # js_assignment_aditya_gujar
 
-question 1:
-question 2:
-question 3:
+#include<iostream>
+  int main(){
+  cout<<"Hellow"
+  return 0;
+  }
